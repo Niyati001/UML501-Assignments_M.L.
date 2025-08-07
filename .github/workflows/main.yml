@@ -1,0 +1,91 @@
+Q1: Basic NumPy Array
+(a) Reverse the NumPy array:
+
+arr[::-1]  
+# Output: [5, 4, 6, 3, 2, 1]
+
+(b) Flatten using two methods:
+
+array1.flatten(): [1, 2, 3, 2, 4, 5, 1, 2, 3]  
+array1.ravel():   [1, 2, 3, 2, 4, 5, 1, 2, 3]
+
+(c) Compare arrays:
+
+np.array_equal(arr1, arr2): True
+
+(d) Most frequent values:
+
+x: value = 1, indices = [0, 5, 7, 8, 9]  
+y: value = 1, indices = [0, 1, 2]
+
+(e) Matrix sums:
+Sum = 45  
+Row-wise = [[14], [16], [15]]  
+Column-wise = [[20, 9, 16]]
+
+(f) For matrix n_array:
+Diagonal sum = 176  
+Eigenvalues ≈ [105.4, 44.9, 25.7]  
+Eigenvectors = 3x3 matrix  
+Inverse = 3x3 matrix  
+Determinant ≈ 111108.99
+
+(g) Matrix Multiplication & Covariance:
+* First matrices:
+Product = [[16, 19], [26, 31]]  
+Covariance = 4x4 matrix
+* Second matrices:
+Product = [[16, 19, 5], [24, 29, 8], [44, 53, 14]]  
+Covariance = 5x5 matrix
+
+(h) Inner, Outer, Cartesian Product:
+Inner = [[19, 43], [30, 66]]  
+Outer = giant 6x6 matrix  
+Cartesian product = every pair between elements of x and y
+
+Q2: Mathematics and Statistics
+(a) Given array:
+Absolute = [[1, 2, 3], [4, 5, 6]]
+
+Percentiles:
+Flat: [ -1.75, 0.5, 2.25 ]  
+Column-wise:  
+  25%: [ -2.25, -0.25, -1.5 ]  
+  50%: [ -1.5, 1.5, -1.5 ]  
+  75%: [ -0.75, 3.25, 0.0 ]  
+
+Stats:
+Mean: -0.5  
+Median: 0.5  
+Std: ≈ 3.02  
+
+Column-wise:  
+Mean: [-1.5, 1.5, -1.5]  
+Median: [-0.5, 1.5, -1.5]  
+Std: [2.5, 3.5, 4.5]  
+
+(b) For array a:
+Floor:     [-2.0, -2.0, -1.0,  0.0, 1.0, 1.0, 3.0]  
+Ceil:      [-1.0, -1.0,  0.0,  1.0, 2.0, 2.0, 3.0]  
+Trunc:     [-1.0, -1.0,  0.0,  0.0, 1.0, 1.0, 3.0]  
+Rounded:   [-2.0, -2.0, -0.0,  0.0, 2.0, 2.0, 3.0]
+
+Q3: Searching and Sorting
+(a) Array operations:
+Sorted: [10, 16, 16, 52, 54, 62, 453]  
+Indices of sorted: [0, 3, 4, 1, 5, 2, 6]  
+4 Smallest: [10, 16, 16, 52]  
+5 Largest:  [16, 52, 54, 62, 453]
+
+(b) Filter elements:
+Integer elements: [1.0, 2.0, 3.0, 2.0]  
+Float elements:   [1.2, 2.2]
+
+Q4: Image to Array and Load
+(a) Function to convert image to text:
+def img_to_array(path):
+    Load image using PIL.Image  
+    Convert to grayscale or RGB  
+    Save pixel array as .txt using np.savetxt
+(b) Load in Jupyter:
+Use: np.loadtxt('image_data.txt')  
