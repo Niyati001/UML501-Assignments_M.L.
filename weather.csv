@@ -1,0 +1,143 @@
+city,temperature,condition,url
+"Weather in Patiala, Punjab, India",30 °C,Clear.,https://www.timeanddate.com/weather/india/patiala
+"Weather in New York, New York, USA",23 °C,Sunny.,https://www.timeanddate.com/weather/usa/new-york
+"Weather in London, England, United Kingdom",16 °C,Scattered clouds.,https://www.timeanddate.com/weather/uk/london
+"Weather in Tokyo, Japan",27 °C,Warm.,https://www.timeanddate.com/weather/japan/tokyo
+"Weather in Accra, Ghana",25 °C,Mostly cloudy.,https://www.timeanddate.com/weather/ghana/accra
+"Weather in Kuala Lumpur, Malaysia",26 °C,Passing clouds.,https://www.timeanddate.com/weather/malaysia/kuala-lumpur
+"Weather in Addis Ababa, Ethiopia",14 °C,Passing clouds.,https://www.timeanddate.com/weather/ethiopia/addis-ababa
+"Weather in Kuwait City, Kuwait",40 °C,Clear.,https://www.timeanddate.com/weather/kuwait/kuwait-city
+"Weather in Adelaide, South Australia, Australia",13 °C,Quite cool.,https://www.timeanddate.com/weather/australia/adelaide
+"Weather in Kyiv, Ukraine",23 °C,Partly sunny.,https://www.timeanddate.com/weather/ukraine/kyiv
+"Weather in Algiers, Algeria",28 °C,Passing clouds.,https://www.timeanddate.com/weather/algeria/algiers
+"Weather in La Paz, Bolivia",11 °C,Haze.,https://www.timeanddate.com/weather/bolivia/la-paz
+"Weather in Almaty, Kazakhstan",17 °C,Partly cloudy.,https://www.timeanddate.com/weather/kazakstan/almaty
+"Weather in Lagos, Lagos, Nigeria",27 °C,Scattered clouds.,https://www.timeanddate.com/weather/nigeria/lagos
+"Weather in Amman, Jordan",26 °C,Clear.,https://www.timeanddate.com/weather/jordan/amman
+"Weather in Lahore, Pakistan",31 °C,Passing clouds.,https://www.timeanddate.com/weather/pakistan/lahore
+"Weather in Amsterdam, Netherlands",15 °C,Sunny.,https://www.timeanddate.com/weather/netherlands/amsterdam
+"Weather in Las Vegas, Nevada, USA",25 °C,Sunny.,https://www.timeanddate.com/weather/usa/las-vegas
+"Weather in Anadyr, Russia",7 °C,Overcast.,https://www.timeanddate.com/weather/russia/anadyr
+"Weather in Lima, Lima, Peru",18 °C,Partly sunny.,https://www.timeanddate.com/weather/peru/lima
+"Weather in Anchorage, Alaska, USA",9 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/anchorage
+"Weather in Lisbon, Portugal",24 °C,Passing clouds.,https://www.timeanddate.com/weather/portugal/lisbon
+"Weather in Ankara, Turkey",23 °C,Clear.,https://www.timeanddate.com/weather/turkey/ankara
+"Weather in Antananarivo, Madagascar",15 °C,Passing clouds.,https://www.timeanddate.com/weather/madagascar/antananarivo
+"Weather in Los Angeles, California, USA",22 °C,Overcast.,https://www.timeanddate.com/weather/usa/los-angeles
+"Weather in Asuncion, Paraguay",33 °C,Passing clouds.,https://www.timeanddate.com/weather/paraguay/asuncion
+"Weather in Madrid, Madrid, Spain",29 °C,Passing clouds.,https://www.timeanddate.com/weather/spain/madrid
+"Weather in Athens, Greece",31 °C,Pleasantly warm.,https://www.timeanddate.com/weather/greece/athens
+"Weather in Managua, Nicaragua",32 °C,Scattered clouds.,https://www.timeanddate.com/weather/nicaragua/managua
+"Weather in Atlanta, Georgia, USA",28 °C,Partly sunny.,https://www.timeanddate.com/weather/usa/atlanta
+"Weather in Manila, Philippines",27 °C,Overcast.,https://www.timeanddate.com/weather/philippines/manila
+"Weather in Auckland, New Zealand",14 °C,Passing clouds.,https://www.timeanddate.com/weather/new-zealand/auckland
+"Weather in Melbourne, Victoria, Australia",9 °C,Clear.,https://www.timeanddate.com/weather/australia/melbourne
+"Weather in Baghdad, Iraq",36 °C,Sunny.,https://www.timeanddate.com/weather/iraq/baghdad
+"Weather in Mexico City, Ciudad de México, Mexico",19 °C,Partly sunny.,https://www.timeanddate.com/weather/mexico/mexico-city
+"Weather in Bangkok, Thailand",28 °C,Passing clouds.,https://www.timeanddate.com/weather/thailand/bangkok
+"Weather in Miami, Florida, USA",31 °C,Broken clouds.,https://www.timeanddate.com/weather/usa/miami
+"Weather in Barcelona, Barcelona, Spain",24 °C,Passing clouds.,https://www.timeanddate.com/weather/spain/barcelona
+"Weather in Minneapolis, Minnesota, USA",23 °C,Partly sunny.,https://www.timeanddate.com/weather/usa/minneapolis
+"Weather in Beijing, Beijing Municipality, China",20 °C,Mild.,https://www.timeanddate.com/weather/china/beijing
+"Weather in Minsk, Belarus",17 °C,Sunny.,https://www.timeanddate.com/weather/belarus/minsk
+"Weather in Beirut, Lebanon",29 °C,Passing clouds.,https://www.timeanddate.com/weather/lebanon/beirut
+"Weather in Montevideo, Uruguay",20 °C,Sunny.,https://www.timeanddate.com/weather/uruguay/montevideo
+"Weather in Belgrade, Serbia",29 °C,Passing clouds.,https://www.timeanddate.com/weather/serbia/belgrade
+"Weather in Montréal, Quebec, Canada",19 °C,Partly sunny.,https://www.timeanddate.com/weather/canada/montreal
+"Weather in Bengaluru, Karnataka, India",22 °C,Passing clouds.,https://www.timeanddate.com/weather/india/bengaluru
+"Weather in Moscow, Russia",16 °C,Overcast.,https://www.timeanddate.com/weather/russia/moscow
+"Weather in Berlin, Germany",17 °C,Passing clouds.,https://www.timeanddate.com/weather/germany/berlin
+"Weather in Mumbai, Maharashtra, India",27 °C,Light rain. Overcast.,https://www.timeanddate.com/weather/india/mumbai
+"Weather in Bogota, Colombia",20 °C,Partly sunny.,https://www.timeanddate.com/weather/colombia/bogota
+"Weather in Nairobi, Kenya",23 °C,Passing clouds.,https://www.timeanddate.com/weather/kenya/nairobi
+"Weather in Boston, Massachusetts, USA",21 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/boston
+"Weather in Nassau, Bahamas",28 °C,Scattered showers. Partly sunny.,https://www.timeanddate.com/weather/bahamas/nassau
+"Weather in Brasilia, Distrito Federal, Brazil",32 °C,Clear.,https://www.timeanddate.com/weather/brazil/brasilia
+"Weather in New Delhi, Delhi, India",31 °C,Passing clouds.,https://www.timeanddate.com/weather/india/new-delhi
+"Weather in Brisbane, Queensland, Australia",14 °C,Cool.,https://www.timeanddate.com/weather/australia/brisbane
+"Weather in New Orleans, Louisiana, USA",31 °C,Sunny.,https://www.timeanddate.com/weather/usa/new-orleans
+"Weather in Brussels, Belgium",13 °C,Sprinkles. Passing clouds.,https://www.timeanddate.com/weather/belgium/brussels
+"Weather in Bucharest, Romania",23 °C,Clear.,https://www.timeanddate.com/weather/romania/bucharest
+"Weather in Oslo, Norway",14 °C,Cool.,https://www.timeanddate.com/weather/norway/oslo
+"Weather in Budapest, Hungary",24 °C,Clear.,https://www.timeanddate.com/weather/hungary/budapest
+"Weather in Ottawa, Ontario, Canada",20 °C,Broken clouds.,https://www.timeanddate.com/weather/canada/ottawa
+"Weather in Buenos Aires, Argentina",17 °C,Sunny.,https://www.timeanddate.com/weather/argentina/buenos-aires
+"Weather in Paris, Paris, France",15 °C,Broken clouds.,https://www.timeanddate.com/weather/france/paris
+"Weather in Cairo, Egypt",33 °C,Clear.,https://www.timeanddate.com/weather/egypt/cairo
+"Weather in Perth, Western Australia, Australia",15 °C,Passing clouds.,https://www.timeanddate.com/weather/australia/perth
+"Weather in Calgary, Alberta, Canada",19 °C,Passing clouds.,https://www.timeanddate.com/weather/canada/calgary
+"Weather in Philadelphia, Pennsylvania, USA",26 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/philadelphia
+"Weather in Canberra, Australian Capital Territory, Australia",2 °C,Clear.,https://www.timeanddate.com/weather/australia/canberra
+"Weather in Phoenix, Arizona, USA",31 °C,Passing clouds.,https://www.timeanddate.com/weather/usa/phoenix
+"Weather in Cape Town, South Africa",16 °C,Clear.,https://www.timeanddate.com/weather/south-africa/cape-town
+"Weather in Prague, Czechia",17 °C,Sunny.,https://www.timeanddate.com/weather/czech-republic/prague
+"Weather in Caracas, Venezuela",33 °C,Passing clouds.,https://www.timeanddate.com/weather/venezuela/caracas
+"Weather in Reykjavik, Iceland",13 °C,Scattered clouds.,https://www.timeanddate.com/weather/iceland/reykjavik
+"Weather in Casablanca, Morocco",25 °C,Sunny.,https://www.timeanddate.com/weather/morocco/casablanca
+"Weather in Rio de Janeiro, Rio de Janeiro, Brazil",21 °C,Overcast.,https://www.timeanddate.com/weather/brazil/rio-de-janeiro
+"Weather in Chicago, Illinois, USA",23 °C,Broken clouds.,https://www.timeanddate.com/weather/usa/chicago
+"Weather in Riyadh, Saudi Arabia",36 °C,Clear.,https://www.timeanddate.com/weather/saudi-arabia/riyadh
+"Weather in Copenhagen, Denmark",17 °C,Partly sunny.,https://www.timeanddate.com/weather/denmark/copenhagen
+"Weather in Rome, Italy",27 °C,Sunny.,https://www.timeanddate.com/weather/italy/rome
+"Weather in Dallas, Texas, USA",31 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/dallas
+"Weather in Salt Lake City, Utah, USA",21 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/salt-lake-city
+"Weather in Dar es Salaam, Tanzania",25 °C,Passing clouds.,https://www.timeanddate.com/weather/tanzania/dar-es-salaam
+"Weather in San Francisco, California, USA",16 °C,More clouds than sun.,https://www.timeanddate.com/weather/usa/san-francisco
+"Weather in Darwin, Northern Territory, Australia",21 °C,Clear.,https://www.timeanddate.com/weather/australia/darwin
+"Weather in San Juan, Puerto Rico",29 °C,Broken clouds.,https://www.timeanddate.com/weather/puerto-rico/san-juan
+"Weather in Denver, Colorado, USA",22 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/denver
+"Weather in San Salvador, El Salvador",28 °C,Scattered clouds.,https://www.timeanddate.com/weather/el-salvador/san-salvador
+"Weather in Detroit, Michigan, USA",22 °C,Sunny.,https://www.timeanddate.com/weather/usa/detroit
+"Weather in Santiago, Chile",18 °C,Passing clouds.,https://www.timeanddate.com/weather/chile/santiago
+"Weather in Dhaka, Bangladesh",29 °C,Low clouds.,https://www.timeanddate.com/weather/bangladesh/dhaka
+"Weather in Santo Domingo, Dominican Republic",32 °C,Passing clouds.,https://www.timeanddate.com/weather/dominican-republic/santo-domingo
+"Weather in Doha, Qatar",34 °C,Clear.,https://www.timeanddate.com/weather/qatar/doha
+"Weather in São Paulo, São Paulo, Brazil",19 °C,Partly sunny.,https://www.timeanddate.com/weather/brazil/sao-paulo
+"Weather in Dubai, Dubai, United Arab Emirates",33 °C,Clear.,https://www.timeanddate.com/weather/united-arab-emirates/dubai
+"Weather in Seattle, Washington, USA",19 °C,Sunny.,https://www.timeanddate.com/weather/usa/seattle
+"Weather in Dublin, Ireland",14 °C,Broken clouds.,https://www.timeanddate.com/weather/ireland/dublin
+"Weather in Seoul, South Korea",20 °C,Clear.,https://www.timeanddate.com/weather/south-korea/seoul
+"Weather in Edmonton, Alberta, Canada",21 °C,Passing clouds.,https://www.timeanddate.com/weather/canada/edmonton
+"Weather in Shanghai, Shanghai Municipality, China",27 °C,Clear.,https://www.timeanddate.com/weather/china/shanghai
+"Weather in Frankfurt, Hesse, Germany",16 °C,Sunny.,https://www.timeanddate.com/weather/germany/frankfurt
+"Weather in Singapore, Singapore",26 °C,Passing clouds.,https://www.timeanddate.com/weather/singapore/singapore
+"Weather in Guatemala City, Guatemala",25 °C,Partly sunny.,https://www.timeanddate.com/weather/guatemala/guatemala
+"Weather in Sofia, Bulgaria",27 °C,Scattered clouds.,https://www.timeanddate.com/weather/bulgaria/sofia
+"Weather in Halifax, Nova Scotia, Canada",19 °C,Partly sunny.,https://www.timeanddate.com/weather/canada/halifax
+"Weather in St. John's, Newfoundland and Labrador, Canada",10 °C,Partly sunny.,https://www.timeanddate.com/weather/canada/st-johns
+"Weather in Hanoi, Vietnam",29 °C,Passing clouds.,https://www.timeanddate.com/weather/vietnam/hanoi
+"Weather in Stockholm, Sweden",16 °C,Passing clouds.,https://www.timeanddate.com/weather/sweden/stockholm
+"Weather in Harare, Zimbabwe",26 °C,Sunny.,https://www.timeanddate.com/weather/zimbabwe/harare
+"Weather in Suva, Fiji",24 °C,Overcast.,https://www.timeanddate.com/weather/fiji/suva
+"Weather in Havana, Cuba",32 °C,Scattered clouds.,https://www.timeanddate.com/weather/cuba/havana
+"Weather in Sydney, New South Wales, Australia",12 °C,Clear.,https://www.timeanddate.com/weather/australia/sydney
+"Weather in Helsinki, Finland",16 °C,Passing clouds.,https://www.timeanddate.com/weather/finland/helsinki
+"Weather in Taipei, Taiwan",28 °C,Passing clouds.,https://www.timeanddate.com/weather/taiwan/taipei
+"Weather in Hong Kong, Hong Kong",28 °C,Passing clouds.,https://www.timeanddate.com/weather/hong-kong/hong-kong
+"Weather in Tallinn, Estonia",15 °C,Passing clouds.,https://www.timeanddate.com/weather/estonia/tallinn
+"Weather in Honolulu, Hawaii, USA",26 °C,Passing clouds.,https://www.timeanddate.com/weather/usa/honolulu
+"Weather in Tashkent, Uzbekistan",25 °C,Clear.,https://www.timeanddate.com/weather/uzbekistan/tashkent
+"Weather in Houston, Texas, USA",31 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/houston
+"Weather in Tegucigalpa, Honduras",28 °C,Partly sunny.,https://www.timeanddate.com/weather/honduras/tegucigalpa
+"Weather in Indianapolis, Indiana, USA",24 °C,Scattered clouds.,https://www.timeanddate.com/weather/usa/indianapolis
+"Weather in Tehran, Iran",27 °C,Clear.,https://www.timeanddate.com/weather/iran/tehran
+"Weather in Islamabad, Pakistan",31 °C,Overcast.,https://www.timeanddate.com/weather/pakistan/islamabad
+"Weather in Istanbul, Turkey",24 °C,Passing clouds.,https://www.timeanddate.com/weather/turkey/istanbul
+"Weather in Toronto, Ontario, Canada",22 °C,Sprinkles. Mostly cloudy.,https://www.timeanddate.com/weather/canada/toronto
+"Weather in Jakarta, Jakarta Special Capital Region, Indonesia",26 °C,Passing clouds.,https://www.timeanddate.com/weather/indonesia/jakarta
+"Weather in Vancouver, British Columbia, Canada",17 °C,Partly sunny.,https://www.timeanddate.com/weather/canada/vancouver
+"Weather in Jerusalem, Israel",24 °C,Mild.,https://www.timeanddate.com/weather/israel/jerusalem
+"Weather in Vienna, Vienna, Austria",20 °C,Passing clouds.,https://www.timeanddate.com/weather/austria/vienna
+"Weather in Johannesburg, South Africa",20 °C,Scattered clouds.,https://www.timeanddate.com/weather/south-africa/johannesburg
+"Weather in Warsaw, Poland",21 °C,Passing clouds.,https://www.timeanddate.com/weather/poland/warsaw
+"Weather in Karachi, Sindh, Pakistan",27 °C,Passing clouds.,https://www.timeanddate.com/weather/pakistan/karachi
+"Weather in Washington DC, USA",27 °C,Passing clouds.,https://www.timeanddate.com/weather/usa/washington-dc
+"Weather in Kathmandu, Nepal",23 °C,Partly cloudy.,https://www.timeanddate.com/weather/nepal/kathmandu
+"Weather in Winnipeg, Manitoba, Canada",20 °C,Mild.,https://www.timeanddate.com/weather/canada/winnipeg
+"Weather in Kingston, Jamaica",32 °C,Hot.,https://www.timeanddate.com/weather/jamaica/kingston
+"Weather in Yangon, Myanmar",25 °C,Drizzle. Mostly cloudy.,https://www.timeanddate.com/weather/myanmar/yangon
+"Weather in Kinshasa, Congo Dem. Rep.",29 °C,Passing clouds.,https://www.timeanddate.com/weather/congo-demrep/kinshasa
+"Weather in Zagreb, Croatia",24 °C,Passing clouds.,https://www.timeanddate.com/weather/croatia/zagreb
+"Weather in Kiritimati, Christmas Island, Kiribati",25 °C,Passing clouds.,https://www.timeanddate.com/weather/kiribati/kiritimati
+"Weather in Zürich, Zurich, Switzerland",19 °C,Mild.,https://www.timeanddate.com/weather/switzerland/zurich
+"Weather in Kolkata, West Bengal, India",29 °C,Passing clouds.,https://www.timeanddate.com/weather/india/kolkata
